@@ -1,0 +1,5 @@
+-   id: validate-cf
+    name: validate-cf
+    description: Validate AWS CloudFormation worker templates.
+    entry: validate.sh
+    language: script

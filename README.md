@@ -1,0 +1,1 @@
+# AWS CloudFormation pre-commit hook
