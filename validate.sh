@@ -2,4 +2,4 @@
 
 set -e
 
-aws cloudformation validate-template --template-body file://01-worker.cform.yml && echo $?
+aws cloudformation validate-template --template-body file://cftemplates/01-worker.cform.yml && echo $?
